@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<XML>
+    <!-- -  category
+            default = 0 
+            0 - ??
+            1 - ??? 
+            2 - ?? 
+            3 - ??? 
+            4 - ??? 
+            5 - ??
+            6 - ??
+            7 - ??
+    -->
+    <!-- MSG??? id? ??? ???? ??? ??? ??? ?????. -->
+    
+<TIPS category="0">
+    <!-- STATIC TIPS -->
+	<MSG>LegacyGamers GunZ Beta 2 is in BETA, meaning there are still bugs, report them to the administrators!</MSG>
+	<MSG>All Staff members speak ENGLISH only.</MSG>
+	<MSG>Report all hackers to our forum, we will get to them there, or If there is a active staff member on, whisper them.</MSG>
+	<MSG>Are you a donator? If you're, and you don't have your donation items, please post on the forum in "Donation information"</MSG>
+	<MSG>Thanks for playing, you guys are what LegacyGamers is!</MSG>
+	<MSG>Our website is located at http://legacygamers.net</MSG>
+
+</TIPS>    
+
+
+
+</XML>

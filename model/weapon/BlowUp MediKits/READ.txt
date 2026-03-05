@@ -1,0 +1,18 @@
+Put the .elu file in WorldItems (Located in Model.mrs) etc...
+
+Put this is Weapons.xml in worlditems.
+
+<AddWeaponElu name="blowmed1" weapon_motion_type = "8" weapon_type = "7" >	
+		<AddBaseModel name="blowmed1" filename="model/weapon/item/bmedikit.elu" />
+	</AddWeaponElu>
+
+
+
+ZItem.xml
+
+<ITEM id="31333" name="Blow Up Medikit" mesh_name="blowmed1" totalpoint="0" type="custom"
+		res_sex="a" res_level="5" slot="custom" weapon="frag" weight="4" bt_price="1000"
+		delay="1500" damage="100" ctrl_ability="20" magazine="4" maxbullet="4" reloadtime="10"
+		slug_output="false" gadget_id="0" hp="0" ap="0" maxwt="0" sf="0" fr="0" cr="0" pr="0"
+		lr="0" color="#FFFFFFFF" image_id="3" bullet_image_id="0" magazine_image_id="0" snd_fire="we_grenade_fire"
+		desc="Blow Up Medikit" />

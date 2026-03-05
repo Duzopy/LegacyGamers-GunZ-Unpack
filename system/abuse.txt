@@ -1,0 +1,6 @@
+1,nigger
+1,nigro
+1,negro
+2,god
+2,jesus
+END
